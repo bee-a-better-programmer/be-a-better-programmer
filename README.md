@@ -1,1 +1,1 @@
-# be-a-better-programmer
+# Be a better programmer

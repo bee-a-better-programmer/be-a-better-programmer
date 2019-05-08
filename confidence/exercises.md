@@ -1,6 +1,6 @@
 # Exercises list
 
-# Exercises on Repl.it
+## Exercises on Repl.it
 
 The purpose on all of them is to get the message "It workeeeeeed!" printed.
 

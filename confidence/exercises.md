@@ -1,4 +1,6 @@
-Exercises list. The purpose on all of them is to get the message "It workeeeeeed!" printed.
+# Exercises [list](https://repl.it/@debora_duarte) 
+
+The purpose on all of them is to get the message "It workeeeeeed!" printed.
 
 [Exercise 1](https://repl.it/@debora_duarte/confidence001)
 

@@ -23,7 +23,7 @@ Usually this skill is not trained, so I have decided to try to develop material 
 
 For the first part, on the first exercices, instead of installing the languages we need, we are going to use [Repl.it](https://repl.it/) to write and test code. I suggest logging with Github for creating one account so you can use it for your own projects.
 
-The exercises are here [in this dashboard](https://repl.it/@debora_duarte). They are written in a lot of different languagues. In all of them, the goal is to run, check the error messages, Google them and fix the code.
+The exercises are listed [here](https://github.com/bee-a-better-programmer/be-a-better-programmer/blob/master/confidence/exercises.md). They are written in a lot of different languagues. In all of them, the goal is to run, check the error messages, Google them and fix the code.
 Don't be afraid: they start very simple and go building up in complexity. For this reason, I suggest following the number sequence order when studying them.
 
 ## Code Structure

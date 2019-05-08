@@ -1,5 +1,5 @@
 Obs: o material aqui vai ser escrito todo em inglês, porque desenvolver a capacidade de ler um inglês técnico é bastante necessária pra programação. No geral, os fóruns e materiais estão quase todos disponíveis em inglês.
-Não tenha medo. Use o Google Translator pra traduzir o que você não entender, você vai ver que a complexidade do texto não é grande. E é uma boa chance de se acostumar com um inglês técnico.
+Se você não domina um inglês técnico, não tenha medo: use o Google Translator pra traduzir o que você não entender, você vai ver que a complexidade do texto não é grande. E é uma boa chance de se acostumar com um inglês técnico.
 
 
 # Be a better programmer

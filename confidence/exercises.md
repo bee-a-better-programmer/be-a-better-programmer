@@ -2,7 +2,7 @@
 
 ## Exercises on Repl.it
 
-The purpose on all of them is to get the message "It workeeeeeed!" printed.
+The purpose on all of them is to get the message "It workeeeeeed!" printed and no error messages.
 
 * [Exercise 1](https://repl.it/@debora_duarte/confidence001)
 

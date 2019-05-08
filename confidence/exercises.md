@@ -12,4 +12,4 @@ The purpose on all of them is to get the message "It workeeeeeed!" printed.
 
 * [Exercise 4](https://repl.it/@debora_duarte/confidence004)
 
-The whole list is [here](https://repl.it/@debora_duarte)
+The whole list is [here](https://repl.it/@debora_duarte).

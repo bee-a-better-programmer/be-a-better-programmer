@@ -45,7 +45,7 @@ This process will create a *Pull request*. This is something very used in big co
 
 ### Next steps
 
-Next steps in this process, once you have done a lot of confindence and code structure exercises and you're feeling confortable with the steps above - don't try this here while you're not - would be to configure your *ssh key* on Github and do it all via git command line.
+Next steps in this process, once you have done a lot of *confidence* and *code structure* exercises and you're feeling confortable with the steps above - don't try this here while you're not - would be to configure your *ssh key* on Github and do it all via git command line.
 Git and Github are, respectvily, a tool and a service very used by good companies to store and version control code. 
 Install git on your system and configure the ssh keys on Github so you can use the command line. You can search both of these things on Google.
 Once you have done it, this is a [good tutorial](http://aprenda.vidageek.net/aprenda/git/task/0) to learn the basics on git.

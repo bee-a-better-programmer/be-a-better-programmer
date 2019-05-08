@@ -12,4 +12,6 @@ The purpose on all of them is to get the message "It workeeeeeed!" printed and n
 
 * [Exercise 4](https://repl.it/@debora_duarte/confidence004)
 
+* [Exercise 5](https://repl.it/@debora_duarte/confidence005)
+
 The whole list is [here](https://repl.it/@debora_duarte).

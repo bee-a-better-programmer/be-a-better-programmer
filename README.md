@@ -37,9 +37,9 @@ For the first exercises, just:
 * write the code for the exercise; 
 * open this project on your browser; 
 * click to create a new file and copy your code to this new file;
-* click on the option *Create a **new branch** for this commit and start a pull request* that will appear bellow;
-* click on the *Propose file change* option bellow;
-* on the next screen that will open, click on *Create a pull request*
+* click on the option "*Create a **new branch** for this commit and start a pull request*" that will appear bellow;
+* click on the "*Propose file change*" option bellow;
+* on the next screen that will open, click on "*Create a pull request*"
 
 This process will create a *Pull request*. This is something very used in big companies so that programmers can review each other's code. The idea here is creating this review demand so I can receive it, take a look at your code and review it giving tips on better code structure.
 

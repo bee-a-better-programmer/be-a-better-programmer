@@ -20,3 +20,19 @@ For the first part, on the first exercices, instead of installing the languages 
 
 The exercises are here [in this dashboard](https://repl.it/@debora_duarte). They are written in a lot of different languagues. In all of them, the goal is to run, check the error messages, Google them and fix the code.
 Don't be afraid: they start very simple and go building up in complexity. For this reason, I suggest following the number sequence order when studying them.
+
+# Code Structure
+
+Besides the confidence exercises, there will be exercises on code structure that can be developed in parallel. I will create exercises that start simple and go building in complexity. The idea behind this ones is to improve code quality and structure.
+
+## Starting
+
+For the first exercises, just:
+* go to [Repl.it](https://repl.it/) on your account;
+* write the code for the exercise; 
+* open this project on your browser; 
+* click to create a new file and copy your code to this new file;
+* click on the option *Create a **new branch** for this commit and start a pull request* bellow;
+* click on the *Propose file change* option bellow;
+
+

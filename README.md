@@ -4,7 +4,7 @@ Se você não domina um inglês técnico, não tenha medo: use o Google Translat
 
 # Be a better programmer
 
-This repo is aimed from anyone that has had any experience with programming to junior programmer, both wanting to develop their programming skills and become better programmers. It will have some exercises to develop specially confidence, but will have exercises to develop code strutucture too. It will also compile references to sources that can be used to gain more experience on tests, essencial tools, etc.
+This repo is aimed from anyone that has had any experience with programming to junior programmers, both wanting to develop their programming skills and become better programmers. It will have some exercises to develop specially confidence, but will have exercises to develop code strutucture too. It will also compile references to sources that can be used to gain more experience on tests, essencial tools, etc.
 
 I think developing confidence it's of the most importance. I believe it should also be trained in early steps but usually is only developed through experience and time: the **confidence** that you are able to deal with and fix code on different technologies, languages and systems, not necessarily only the ones you completely master. 
 
